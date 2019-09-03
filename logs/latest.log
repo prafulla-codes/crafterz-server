@@ -1,0 +1,927 @@
+[11:38:45] [Server thread/INFO]: Starting minecraft server version 1.14.1
+[11:38:45] [Server thread/INFO]: Loading properties
+[11:38:45] [Server thread/INFO]: Default game type: SURVIVAL
+[11:38:45] [Server thread/INFO]: Generating keypair
+[11:38:47] [Server thread/INFO]: Starting Minecraft server on 25.35.82.66:25565
+[11:38:47] [Server thread/INFO]: Using default channel type
+[11:38:53] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-f690957 (MC: 1.14.1) (Implementing API version 1.14.1-R0.1-SNAPSHOT)
+[11:39:10] [Server thread/WARN]: Plugin HealthBar v1.8.3 does not specify an api-version.
+[11:39:10] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.0.6
+[11:39:10] [Server thread/INFO]: [HealthBar] Loading HealthBar v1.8.3
+[11:39:10] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.1.0-b775
+[11:39:10] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v3.0.0-b459
+[11:39:10] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v4.1.0-b748
+[11:39:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:39:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:39:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:39:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:39:10] [Server thread/INFO]: Preparing level "world"
+[11:39:11] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:39:12] [Server thread/INFO]: Loaded 6 recipes
+[11:39:16] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[11:39:21] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-9/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-9/INFO]: Preparing spawn area: 0%
+[11:39:21] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:22] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:39:22] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:23] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-11/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-11/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:39:27] [Server-Worker-9/INFO]: Preparing spawn area: 0%
+[11:39:28] [Server-Worker-9/INFO]: Preparing spawn area: 0%
+[11:39:28] [Server-Worker-4/INFO]: Preparing spawn area: 1%
+[11:39:29] [Server-Worker-9/INFO]: Preparing spawn area: 2%
+[11:39:30] [Server-Worker-4/INFO]: Preparing spawn area: 3%
+[11:39:30] [Server-Worker-5/INFO]: Preparing spawn area: 4%
+[11:39:31] [Server-Worker-9/INFO]: Preparing spawn area: 4%
+[11:39:31] [Server-Worker-11/INFO]: Preparing spawn area: 4%
+[11:39:31] [Server-Worker-9/INFO]: Preparing spawn area: 4%
+[11:39:32] [Server-Worker-5/INFO]: Preparing spawn area: 4%
+[11:39:32] [Server-Worker-5/INFO]: Preparing spawn area: 4%
+[11:39:33] [Server-Worker-10/INFO]: Preparing spawn area: 4%
+[11:39:33] [Server-Worker-11/INFO]: Preparing spawn area: 4%
+[11:39:34] [Server-Worker-5/INFO]: Preparing spawn area: 6%
+[11:39:35] [Server-Worker-11/INFO]: Preparing spawn area: 11%
+[11:39:35] [Server-Worker-4/INFO]: Preparing spawn area: 13%
+[11:39:36] [Server-Worker-4/INFO]: Preparing spawn area: 19%
+[11:39:36] [Server-Worker-8/INFO]: Preparing spawn area: 19%
+[11:39:36] [Server-Worker-11/INFO]: Preparing spawn area: 19%
+[11:39:37] [Server-Worker-5/INFO]: Preparing spawn area: 19%
+[11:39:38] [Server-Worker-5/INFO]: Preparing spawn area: 22%
+[11:39:38] [Server-Worker-4/INFO]: Preparing spawn area: 24%
+[11:39:38] [Server-Worker-8/INFO]: Preparing spawn area: 28%
+[11:39:39] [Server-Worker-9/INFO]: Preparing spawn area: 33%
+[11:39:39] [Server-Worker-10/INFO]: Preparing spawn area: 46%
+[11:39:40] [Server-Worker-11/INFO]: Preparing spawn area: 62%
+[11:39:40] [Server-Worker-9/INFO]: Preparing spawn area: 78%
+[11:39:41] [Server thread/INFO]: Time elapsed: 25675 ms
+[11:39:41] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[11:39:42] [Server-Worker-10/INFO]: Preparing spawn area: 0%
+[11:39:42] [Server-Worker-10/INFO]: Preparing spawn area: 0%
+[11:39:43] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:43] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:43] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:44] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:45] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:45] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:46] [Server-Worker-8/INFO]: Preparing spawn area: 8%
+[11:39:46] [Server-Worker-11/INFO]: Preparing spawn area: 57%
+[11:39:46] [Server-Worker-5/INFO]: Preparing spawn area: 70%
+[11:39:47] [Server-Worker-5/INFO]: Preparing spawn area: 77%
+[11:39:47] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[11:39:48] [Server-Worker-4/INFO]: Preparing spawn area: 86%
+[11:39:48] [Server-Worker-8/INFO]: Preparing spawn area: 89%
+[11:39:49] [Server-Worker-6/INFO]: Preparing spawn area: 95%
+[11:39:49] [Server thread/INFO]: Time elapsed: 7939 ms
+[11:39:49] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[11:39:50] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:39:50] [Server-Worker-9/INFO]: Preparing spawn area: 0%
+[11:39:50] [Server-Worker-9/INFO]: Preparing spawn area: 0%
+[11:39:51] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[11:39:51] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:52] [Server-Worker-11/INFO]: Preparing spawn area: 23%
+[11:39:52] [Server-Worker-6/INFO]: Preparing spawn area: 74%
+[11:39:53] [Server-Worker-5/INFO]: Preparing spawn area: 92%
+[11:39:53] [Server thread/INFO]: Time elapsed: 3673 ms
+[11:39:53] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.0.6
+[11:39:53] [Server thread/INFO]: [ClearLag] Loading modules...
+[11:39:53] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[11:39:53] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[11:39:53] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[11:39:53] [Server thread/INFO]: [HealthBar] Enabling HealthBar v1.8.3
+[11:39:53] [Thread-6/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.14]...
+[11:39:54] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.1.0-b775
+[11:39:54] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do. The performance impact is negligible.
+[11:39:54] [Server thread/INFO]: Preparing start region for dimension 'crafterz-creative'/minecraft:overworld
+[11:39:55] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:55] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:56] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:56] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:56] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:39:58] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:58] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:58] [Server-Worker-8/INFO]: Preparing spawn area: 0%
+[11:39:59] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:59] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:39:59] [Server-Worker-11/INFO]: Preparing spawn area: 0%
+[11:40:00] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:40:00] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[11:40:01] [Server-Worker-10/INFO]: Preparing spawn area: 0%
+[11:40:02] [Server-Worker-6/INFO]: Preparing spawn area: 4%
+[11:40:02] [Server-Worker-5/INFO]: Preparing spawn area: 6%
+[11:40:02] [Server-Worker-6/INFO]: Preparing spawn area: 9%
+[11:40:03] [Server-Worker-11/INFO]: Preparing spawn area: 16%
+[11:40:04] [Server-Worker-11/INFO]: Preparing spawn area: 16%
+[11:40:04] [Server-Worker-5/INFO]: Preparing spawn area: 74%
+[11:40:04] [Server thread/INFO]: Time elapsed: 9952 ms
+[11:40:05] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[11:40:07] [Thread-6/INFO]: [ClearLag] No updates found!
+[11:40:07] [Server thread/INFO]: [Multiverse-Core] Version 4.1.0-b775 (API v24) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[11:40:07] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[11:40:07] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[11:40:07] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v3.0.0-b459
+[11:40:08] [Server thread/INFO]: [Multiverse-Inventories 3.0.0-b459] enabled.
+[11:40:08] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v4.1.0-b748
+[11:40:08] [Server thread/INFO]: [Multiverse-SignPortals 4.1.0-b748]  Enabled - By Rigby and fernferret
+[11:40:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:40:08] [Server thread/INFO]: Done (57.996s)! For help, type "help"
+[11:40:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@56cb24b8[id=<null>,name=supes,properties={},legacy=false] (/25.45.76.171:50404) lost connection: Disconnected
+[11:40:16] [Server thread/INFO]: supes[/25.45.76.171:50437] logged in with entity id 279 at ([world]-1142.2529499838668, 63.0, 965.4291777650996)
+[11:40:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7999ms or 159 ticks behind
+[11:40:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13368ms or 267 ticks behind
+[11:45:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10516ms or 210 ticks behind
+[11:46:07] [Server thread/WARN]: supes moved too quickly! -4.425471884000444,0.0,-9.121732583586777
+[11:47:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:48:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:48:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 4 Entities![m
+[11:51:24] [Server thread/INFO]: supes lost connection: Disconnected
+[11:51:25] [Server thread/INFO]: supes left the game
+[11:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[11:51:37] [Server thread/INFO]: supes[/25.45.76.171:52835] logged in with entity id 9259 at ([world]-1149.9067401587918, 54.0, 963.7456409402932)
+[11:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[11:55:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[11:55:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[11:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3666ms or 73 ticks behind
+[11:56:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 12 Entities![m
+[11:58:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[12:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3916ms or 78 ticks behind
+[12:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12:02:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:03:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:03:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
+[12:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4759ms or 95 ticks behind
+[12:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[12:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[12:07:58] [Server thread/WARN]: supes moved too quickly! -2.4092960604289146,0.0625,11.132529191604135
+[12:08:27] [Server thread/INFO]: supes issued server command: /time set day
+[12:08:29] [Server thread/INFO]: [supes: Set the time to 1000]
+[12:10:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:11:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[12:11:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:11:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[12:15:00] [Server thread/INFO]: supes lost connection: Timed out
+[12:15:01] [Server thread/INFO]: supes left the game
+[12:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[12:15:33] [Server thread/INFO]: supes[/25.45.76.171:54115] logged in with entity id 33390 at ([world]-1159.3561169382733, 62.034276275776634, 960.5491205999122)
+[12:15:52] [Server thread/INFO]: supes issued server command: /tp supes 267 12 -71
+[12:15:52] [Server thread/INFO]: [supes: Teleported supes to 267.5, 12.0, -70.5]
+[12:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[12:16:04] [Server thread/WARN]: supes moved too quickly! 0.1807969448162794,0.0,12.064249183913589
+[12:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4429ms or 88 ticks behind
+[12:16:20] [Server thread/WARN]: supes moved too quickly! -7.112214364342776,7.5,-0.017825998804305243
+[12:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[12:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3204ms or 64 ticks behind
+[12:18:24] [Server thread/INFO]: supes issued server command: /tp supes -1141 63 979
+[12:18:24] [Server thread/INFO]: [supes: Teleported supes to -1140.5, 63.0, 979.5]
+[12:18:24] [Server thread/WARN]: supes moved too quickly! -1313.089539038432,-1.9375,984.2000721882899
+[12:18:46] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:19:26] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:19:31] [Server thread/INFO]: supes issued server command: /time set day
+[12:19:31] [Server thread/INFO]: [supes: Set the time to 1000]
+[12:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
+[12:19:50] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 6 Entities![m
+[12:21:37] [Server thread/WARN]: supes moved too quickly! -15.872273860499945,-1.0,-3.564625255466808
+[12:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7377ms or 147 ticks behind
+[12:25:27] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:25:29] [Server thread/INFO]: Saved the game
+[12:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[12:26:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:27:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:27:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
+[12:30:53] [Server thread/INFO]: There are 1 of a max 20 players online: supes
+[12:31:11] [Server thread/INFO]: supes lost connection: Timed out
+[12:31:11] [Server thread/INFO]: supes left the game
+[12:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[12:34:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:35:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:35:21] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[12:42:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:42:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:43:01] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[12:49:41] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:50:21] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:50:41] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[12:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[12:57:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[12:58:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[12:58:23] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[13:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[13:05:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:05:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:06:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[13:12:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:13:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:13:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[13:20:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:21:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:21:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[13:28:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:28:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:29:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[13:30:49] [Server thread/INFO]: supes[/25.45.76.171:54954] logged in with entity id 52944 at ([world]-1137.708888341733, 63.0, 974.2212171673619)
+[13:30:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3882ms or 77 ticks behind
+[13:32:50] [Server thread/INFO]: Saving the game (this may take a moment!)
+[13:32:51] [Server thread/INFO]: Saved the game
+[13:32:51] [Server thread/INFO]: There are 1 of a max 20 players online: supes
+[13:35:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:36:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:36:51] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 10 Entities![m
+[13:43:31] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:44:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:44:31] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 9 Entities![m
+[13:51:11] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[13:51:51] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[13:52:11] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 18 Entities![m
+[13:53:46] [Server thread/INFO]: supes has made the advancement [We Need to Go Deeper]
+[13:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44413ms or 888 ticks behind
+[13:53:47] [Server thread/INFO]: supes lost connection: Disconnected
+[13:53:47] [Server thread/INFO]: supes left the game
+[13:53:48] [Server thread/INFO]: supes[/25.45.76.171:55130] logged in with entity id 73810 at ([world_nether]-145.06721784533966, 48.0, 130.5)
+[13:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[13:56:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13821ms or 276 ticks behind
+[13:56:45] [Server thread/INFO]: supes issued server command: /save-all
+[13:56:49] [Server thread/INFO]: [supes: Saved the game]
+[13:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3819ms or 76 ticks behind
+[13:56:50] [Server thread/INFO]: supes lost connection: Disconnected
+[13:56:51] [Server thread/INFO]: supes left the game
+[13:59:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:00:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:00:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 25 Entities![m
+[14:04:22] [Server thread/INFO]: supes[/25.45.76.171:55170] logged in with entity id 74695 at ([world]-1144.0893905941882, 56.0, 982.8758777532669)
+[14:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[14:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4226ms or 84 ticks behind
+[14:07:42] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[14:08:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:08:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 13 Entities![m
+[14:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4234ms or 84 ticks behind
+[14:10:14] [Server thread/WARN]: supes was kicked for floating too long!
+[14:10:14] [Server thread/INFO]: supes lost connection: Flying is not enabled on this server
+[14:10:14] [Server thread/INFO]: supes left the game
+[14:10:27] [Server thread/INFO]: supes[/25.45.76.171:55188] logged in with entity id 82562 at ([world_nether]-136.17231480552437, 52.34489153339374, 118.47789179949311)
+[14:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9234ms or 184 ticks behind
+[14:10:35] [Server thread/INFO]: supes tried to swim in lava
+[14:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[14:11:07] [Server thread/INFO]: supes issued server command: /gamemode creative supes
+[14:11:07] [Server thread/INFO]: [supes: Set own game mode to Creative Mode]
+[14:13:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4336ms or 86 ticks behind
+[14:15:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:16:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:16:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:17:55] [Server thread/INFO]: supes tried to swim in lava
+[14:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[14:18:10] [Server thread/INFO]: supes issued server command: /gamemode creative
+[14:18:12] [Server thread/INFO]: [supes: Set own game mode to Creative Mode]
+[14:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4268ms or 85 ticks behind
+[14:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[14:20:58] [Server thread/INFO]: supes issued server command: /gamemode creative
+[14:20:58] [Server thread/INFO]: [supes: Set own game mode to Creative Mode]
+[14:22:08] [Server thread/INFO]: supes lost connection: Disconnected
+[14:22:08] [Server thread/INFO]: supes left the game
+[14:23:33] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:23:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[14:24:16] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:24:36] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[14:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2672ms or 53 ticks behind
+[14:31:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:31:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:32:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:37:51] [Server thread/INFO]: supes[/25.45.76.171:55407] logged in with entity id 90559 at ([world_nether]-134.5900174757959, 53.0, 110.57782635306027)
+[14:38:09] [Server thread/INFO]: supes issued server command: /gamemode creative supes
+[14:38:09] [Server thread/INFO]: [supes: Set own game mode to Creative Mode]
+[14:38:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:39:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:39:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
+[14:42:02] [Server thread/INFO]: supes issued server command: /gamemode survival
+[14:42:02] [Server thread/INFO]: [supes: Set own game mode to Survival Mode]
+[14:42:21] [Server thread/INFO]: supes issued server command: /gamemode creative
+[14:42:21] [Server thread/INFO]: [supes: Set own game mode to Creative Mode]
+[14:42:33] [Server thread/INFO]: supes issued server command: /gamemode S
+[14:42:41] [Server thread/INFO]: supes issued server command: /gamemode survival supes
+[14:42:41] [Server thread/INFO]: [supes: Set own game mode to Survival Mode]
+[14:43:47] [Server thread/INFO]: supes issued server command: /gamemode creative
+[14:43:47] [Server thread/INFO]: [supes: Set own game mode to Creative Mode]
+[14:44:18] [Server thread/INFO]: supes issued server command: /gamemode survival
+[14:44:18] [Server thread/INFO]: [supes: Set own game mode to Survival Mode]
+[14:46:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:47:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:47:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[14:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4313ms or 86 ticks behind
+[14:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[14:54:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:55:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:55:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 14 Entities![m
+[14:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8918ms or 178 ticks behind
+[14:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[15:02:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:02:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:03:17] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 4 Entities![m
+[15:09:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:10:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:10:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
+[15:11:55] [Server thread/INFO]: supes has made the advancement [Enchanter]
+[15:13:08] [Server thread/INFO]: supes issued server command: /gamemode creative
+[15:13:08] [Server thread/INFO]: [supes: Set own game mode to Creative Mode]
+[15:13:54] [Server thread/INFO]: supes issued server command: /gamemode survival
+[15:13:54] [Server thread/INFO]: [supes: Set own game mode to Survival Mode]
+[15:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[15:17:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:18:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:18:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
+[15:20:40] [Server thread/INFO]: supes has reached the goal [Hired Help]
+[15:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[15:24:19] [Server thread/WARN]: supes moved too quickly! -6.716481523976881,-2.4952008770059138,-7.095508890436804
+[15:25:22] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:25:56] [Server thread/INFO]: autismatic[/25.89.35.183:60415] logged in with entity id 119056 at ([world]-1140.700000025332, 63.0000002, 980.3000000119209)
+[15:26:02] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:26:08] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> hullo[m
+[15:26:22] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[15:26:23] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> hello[m
+[15:26:50] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> come out[m
+[15:26:56] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> wtf netherrrrrrrrrr[m
+[15:27:02] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> yeahhhhh[m
+[15:27:10] [Server thread/WARN]: supes moved too quickly! -5.923967545078085,-0.49520087700592086,8.377875724895944
+[15:27:45] [Server thread/INFO]: supes issued server command: /tp supes autismatic
+[15:27:45] [Server thread/INFO]: [supes: Teleported supes to autismatic]
+[15:27:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[15:28:43] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> haa pata hai[m
+[15:28:50] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> iron golem na[m
+[15:28:54] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> karr[m
+[15:28:58] [Server thread/INFO]: autismatic has reached the goal [Hired Help]
+[15:29:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4570ms or 91 ticks behind
+[15:29:18] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> pickaxe bana le[m
+[15:29:26] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> diamond[m
+[15:29:33] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> where are the diamonds[m
+[15:29:41] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> here[m
+[15:31:52] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> nether jana hai?[m
+[15:32:02] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> chal[m
+[15:32:27] [Server thread/INFO]: supes has made the advancement [Take Aim]
+[15:32:40] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> come on[m
+[15:33:08] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:33:11] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> wait[m
+[15:33:23] [Server thread/INFO]: supes issued server command: /tp supes autismatic
+[15:33:23] [Server thread/INFO]: [supes: Teleported supes to autismatic]
+[15:33:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:34:07] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> chal[m
+[15:34:08] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 11 Entities![m
+[15:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[15:34:24] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> wait a min[m
+[15:34:24] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> heal up[m
+[15:34:26] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> iron kidr hai[m
+[15:34:34] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> sab khatma[m
+[15:34:38] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> -_-[m
+[15:34:43] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> nvm[m
+[15:34:50] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> here[m
+[15:34:54] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> 7 hai[m
+[15:34:59] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> sword bana ke de merko[m
+[15:35:26] [Server thread/INFO]: autismatic has made the advancement [We Need to Go Deeper]
+[15:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[15:35:49] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> cover diya hai[m
+[15:35:52] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> achaaa[m
+[15:36:05] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> kyun?[m
+[15:36:09] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> bc ghost ake pehla wala portal todh diya[m
+[15:36:15] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> wtf[m
+[15:37:04] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> fortress dundhte hai[m
+[15:37:09] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> haan[m
+[15:37:15] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> apna ghar kaise yaad rahega[m
+[15:37:34] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> marking kar[m
+[15:37:40] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> nah wait[m
+[15:37:46] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> lemme notedown the coords XD[m
+[15:37:55] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> yeah[m
+[15:38:33] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[15:38:33] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[15:39:06] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> mine quartz for xp[m
+[15:39:10] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> yes[m
+[15:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[15:39:32] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> badme enchant kar[m
+[15:39:37] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> tera pick[m
+[15:40:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:41:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:41:52] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[15:41:52] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[15:41:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 9 Entities![m
+[15:42:37] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> mai free fall kar rha hun[m
+[15:42:45] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> kidhr[m
+[15:42:51] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> nicche idhr[m
+[15:43:16] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> jeez[m
+[15:43:26] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> killed a ghost[m
+[15:43:28] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> dekha[m
+[15:43:59] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> omg[m
+[15:44:05] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> almost dies[m
+[15:44:07] [Server thread/INFO]: autismatic issued server command: /
+[15:44:08] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> XD[m
+[15:44:12] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> dies*[m
+[15:44:17] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> died*[m
+[15:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3396ms or 67 ticks behind
+[15:44:37] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> yeah whatever[m
+[15:44:54] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> sidha gira niche[m
+[15:45:01] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> XD[m
+[15:45:06] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> tu kidhr hai[m
+[15:45:24] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> idk lol[m
+[15:46:09] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> upr jane ka try kr rha hun[m
+[15:46:19] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> ok[m
+[15:46:20] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> dude heres a ghost[m
+[15:46:24] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> and i dont have bow and arrow[m
+[15:46:34] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> help[m
+[15:46:37] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> XD[m
+[15:46:41] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> 2 - 2 hai[m
+[15:47:16] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> wtf[m
+[15:47:20] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> enderman[m
+[15:47:22] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> kya?[m
+[15:47:23] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> XD[m
+[15:47:25] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> wtffff[m
+[15:47:28] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> kya tha vo dude[m
+[15:48:24] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> all sorts of shit attxking me[m
+[15:48:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:49:14] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> shall i tp to u[m
+[15:49:19] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> no[m
+[15:49:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:49:20] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> risk[m
+[15:49:22] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> risky[m
+[15:49:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 26 Entities![m
+[15:49:49] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> ohh k[m
+[15:50:10] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> mai, top pe pohoch gya[m
+[15:50:14] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> nether real me ke lol[m
+[15:50:28] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> mai portal pe return aa gya[m
+[15:51:21] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> wtaf[m
+[15:51:25] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> paani jal gya idhr[m
+[15:51:40] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> haan ik[m
+[15:52:02] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> i thought it'd save me from falling[m
+[15:52:16] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> dont die[m
+[15:52:34] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> okaaaay[m
+[15:52:39] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> ddue[m
+[15:52:43] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> kitna confusing haaai[m
+[15:52:53] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> mai upr dekh rha tha, i though i'm looking straight ahead[m
+[15:53:10] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> ikr[m
+[15:53:34] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> i fuckin found it[m
+[15:53:39] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> woohohoho[m
+[15:53:45] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[15:53:45] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[15:53:51] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> fuck yeah[m
+[15:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[15:54:30] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> jane ka?[m
+[15:54:34] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> haan[m
+[15:54:52] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> tera pickaxe konsa hai?[m
+[15:55:09] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> and bow[m
+[15:55:10] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> efficiency 4 hai ispe[m
+[15:55:11] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> wtf[m
+[15:55:14] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> enchancted[m
+[15:55:18] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> level 30 ho gya tu?[m
+[15:55:20] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> T_T[m
+[15:55:23] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> bow pe power 3 nd infinty[m
+[15:55:34] [Server thread/INFO]: supes has made the advancement [A Terrible Fortress]
+[15:55:36] [Server thread/INFO]: autismatic has made the advancement [A Terrible Fortress]
+[15:55:53] [Server thread/INFO]: supes has made the advancement [Into Fire]
+[15:56:13] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> shield se no block?[m
+[15:56:23] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[15:57:03] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[15:57:23] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 48 Entities![m
+[15:58:03] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> dont[m
+[15:58:05] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> wtf?[m
+[15:58:06] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> are[m
+[15:58:12] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> kya hua T_T[m
+[15:58:26] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> spawner mattodh[m
+[15:58:32] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> to diya maine[m
+[15:58:40] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> kya hota hai usse[m
+[15:58:41] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> nvm[m
+[15:58:44] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> xp[m
+[15:58:45] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> spawn hota haina?[m
+[15:58:48] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> -_-[m
+[15:58:52] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> blaze rods[m
+[15:59:15] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> ek aur hai shayad[m
+[15:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[16:00:26] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> ek aur hai age[m
+[16:00:30] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> haan[m
+[16:00:35] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[16:00:35] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[16:00:54] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> fuck mera health[m
+[16:00:57] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> waps chal[m
+[16:02:03] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> tu kidhr[m
+[16:02:08] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> idhr dekh[m
+[16:02:10] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> left[m
+[16:02:25] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> tp me when u reach[m
+[16:03:08] [Server thread/INFO]: autismatic issued server command: /tp autismatic -134.689 52 108.2
+[16:03:08] [Server thread/INFO]: [autismatic: Teleported autismatic to -134.689, 52.0, 108.2]
+[16:03:17] [Netty Server IO #2/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> karu kya?[m
+[16:03:25] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> wait[m
+[16:03:42] [Netty Server IO #0/INFO]: [[0;37;1mworld_nether[0;37;1m]<supes> haan kar[m
+[16:03:53] [Server thread/INFO]: autismatic issued server command: /tp supes -134.689 52 108.2
+[16:03:53] [Server thread/INFO]: [autismatic: Teleported supes to -134.689, 52.0, 108.2]
+[16:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6767ms or 135 ticks behind
+[16:04:12] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:04:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4189ms or 83 ticks behind
+[16:04:51] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> bc last moment pe wither skeleton dikha[m
+[16:04:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:04:58] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> -_-[m
+[16:05:04] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> horse armor mila mujhe[m
+[16:05:09] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> chest me[m
+[16:05:14] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> udhr wale chest mai?[m
+[16:05:15] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> sahi[m
+[16:05:16] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[16:05:20] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> nd saddles as well[m
+[16:05:45] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> quartz idhar niche rakh de[m
+[16:06:32] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> glowston ko block mai kaise convert karu[m
+[16:06:42] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> nvm[m
+[16:07:06] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> first of all enchant ur shit[m
+[16:07:13] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> im level 21[m
+[16:07:17] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> and table kidr hai?[m
+[16:07:18] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> ohh[m
+[16:07:22] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> niche[m
+[16:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[16:10:00] [Server thread/INFO]: autismatic issued server command: /tp au
+[16:10:09] [Server thread/INFO]: There are 2 of a max 20 players online: supes, autismatic
+[16:10:13] [Server thread/INFO]: [Server] yo im joining
+[16:10:16] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[16:10:16] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[16:10:22] [Netty Server IO #2/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> come one come all[m
+[16:11:15] [Netty Server IO #0/INFO]: [[0;37;1mworld[0;37;1m]<supes> ok[m
+[16:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[16:12:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10881ms or 217 ticks behind
+[16:12:46] [Server thread/INFO]: autismatic lost connection: Timed out
+[16:12:46] [Server thread/INFO]: autismatic left the game
+[16:12:52] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:12:56] [Server thread/INFO]: autismatic[/25.89.35.183:60452] logged in with entity id 145145 at ([world]-1137.4075410043088, 63.0, 979.6437673772637)
+[16:13:12] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 13 Entities![m
+[16:13:36] [Server thread/INFO]: Prafulla[/25.35.82.66:49713] logged in with entity id 145536 at ([world]-1140.1122996098402, 56.0, 985.1204599924941)
+[16:13:44] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> yo[m
+[16:13:47] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> yoo[m
+[16:13:54] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> wherea re you guys?[m
+[16:14:05] [Server thread/INFO]: supes lost connection: Disconnected
+[16:14:05] [Server thread/INFO]: supes left the game
+[16:14:11] [Server thread/INFO]: autismatic issued server command: /tp Prafulla autismatic
+[16:14:11] [Server thread/INFO]: [autismatic: Teleported Prafulla to autismatic]
+[16:14:16] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> hello[m
+[16:14:17] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ok cool :D[m
+[16:14:21] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> welcome to our base XD[m
+[16:14:29] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i was there earlier :D[m
+[16:14:33] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> okay XD[m
+[16:14:35] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i help supes make underground thing :D[m
+[16:14:40] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> ooooohhhhh[m
+[16:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8181ms or 163 ticks behind
+[16:15:11] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> where did supes go?[m
+[16:15:14] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> idk[m
+[16:15:25] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> where all the iron went?[m
+[16:15:41] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> uhh[m
+[16:15:49] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> i saw it down here in one of the chest[m
+[16:16:16] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> okk :D[m
+[16:16:32] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> you guys made portal?[m
+[16:16:37] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> yaas[m
+[16:16:42] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> even founf the fortress[m
+[16:16:48] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> but i destroyed the spawner XD[m
+[16:16:58] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> xD[m
+[16:17:21] [Server thread/INFO]: autismatic has made the advancement [Enchanter]
+[16:17:35] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> cool i dont even know how to enchant[m
+[16:17:48] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> hehe[m
+[16:19:26] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> i'll brb, eating[m
+[16:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26521ms or 530 ticks behind
+[16:19:26] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> hey[m
+[16:19:31] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> yes?[m
+[16:19:36] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ok[m
+[16:19:38] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> enjoy food[m
+[16:19:43] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> tell me tell me[m
+[16:19:48] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> its a samosa XD[m
+[16:19:50] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> tell what[m
+[16:19:54] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> XD[m
+[16:20:06] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> nvm XD[m
+[16:20:08] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> from where did you find magma quartz and stuff[m
+[16:20:19] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> nether realm[m
+[16:20:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[16:20:31] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> world beyond the portal[m
+[16:21:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:21:12] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> domt[m
+[16:21:15] [Server thread/INFO]: Prafulla has made the advancement [We Need to Go Deeper]
+[16:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[16:21:17] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> noooooooo XD[m
+[16:21:33] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 8 Entities![m
+[16:21:46] [Netty Server IO #4/INFO]: [[0;37;1mworld_nether[0;37;1m]<Prafulla> there re monsters here[m
+[16:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:22:04] [Server thread/INFO]: Prafulla was slain by ??                
+[16:22:17] [Netty Server IO #3/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> they are friendlies[m
+[16:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6578ms or 131 ticks behind
+[16:22:23] [Netty Server IO #3/INFO]: [[0;37;1mworld_nether[0;37;1m]<autismatic> they dont harm us unledd you harm them XD[m
+[16:22:44] [Netty Server IO #4/INFO]: [[0;37;1mworld_nether[0;37;1m]<Prafulla> ok[m
+[16:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17523ms or 350 ticks behind
+[16:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13263ms or 265 ticks behind
+[16:23:31] [Server thread/INFO]: Prafulla was slain by ??                
+[16:23:37] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> XD[m
+[16:23:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[16:23:41] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> what are you doing[m
+[16:23:43] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i didnt do anything[m
+[16:24:02] [Netty Server IO #4/INFO]: [[0;37;1mworld_nether[0;37;1m]<Prafulla> still they fucking me[m
+[16:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14450ms or 289 ticks behind
+[16:24:10] [Server thread/INFO]: Prafulla was slain by Zombie Pigman
+[16:24:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19545ms or 390 ticks behind
+[16:24:53] [Server thread/INFO]: autismatic was slain by Zombie Pigman
+[16:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20353ms or 407 ticks behind
+[16:25:22] [Server thread/INFO]: Prafulla was slain by Zombie Pigman
+[16:25:28] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> m being fucked here[m
+[16:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8439ms or 168 ticks behind
+[16:26:00] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ill make a gold sword[m
+[16:26:20] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> omg[m
+[16:26:21] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> they in[m
+[16:26:34] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> you pissed them off[m
+[16:26:42] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> and opened the door rightaway XD[m
+[16:26:53] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> xD[m
+[16:26:56] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> do you have iron XD[m
+[16:26:59] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> no[m
+[16:27:00] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> follow me[m
+[16:27:13] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> make gold sword[m
+[16:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6483ms or 129 ticks behind
+[16:27:53] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> come here[m
+[16:28:07] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> follow me[m
+[16:28:36] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> DONT xd[m
+[16:29:12] [Server thread/INFO]: Prafulla was slain by ???               
+[16:29:29] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> my sword[m
+[16:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:29:31] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> its with y?[m
+[16:29:51] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> autismatic[m
+[16:29:56] [Server thread/INFO]: Prafulla issued server command: /tp autismatic Prafulla
+[16:29:56] [Server thread/INFO]: [Prafulla: Teleported autismatic to Prafulla]
+[16:29:57] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> ?[m
+[16:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[16:30:05] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> WHAT HAPPENED?[m
+[16:30:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:30:11] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> you must be having extra swird[m
+[16:30:23] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> yes[m
+[16:30:32] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> dont kill them[m
+[16:30:33] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> extra gold sword XD[m
+[16:30:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:30:49] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> iron is better than gold[m
+[16:31:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
+[16:31:12] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> clear[m
+[16:31:14] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i lag when they jump[m
+[16:32:01] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> what does cartography table do?[m
+[16:32:06] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> im not sureeee[m
+[16:32:09] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> supes knows it[m
+[16:32:31] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ok[m
+[16:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4613ms or 92 ticks behind
+[16:33:50] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> have extra pickaxe?[m
+[16:33:51] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> stone?[m
+[16:34:02] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> its low on health XD[m
+[16:34:41] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> oi take these iro block[m
+[16:35:18] [Server thread/INFO]: supes[/25.45.76.171:60166] logged in with entity id 163259 at ([world]-1138.6101119010864, 63.0, 973.8163694375684)
+[16:35:23] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> XD[m
+[16:35:40] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> im back bitches[m
+[16:35:45] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> cool[m
+[16:35:47] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> prafulla ne game kr diya tha dude[m
+[16:35:52] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> xD[m
+[16:35:53] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> kyaaaaaaaaa[m
+[16:36:01] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> isne[m
+[16:36:12] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> ek sword leke gaya nether realm mai[m
+[16:36:20] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> and piggy zombies se ladne laga[m
+[16:36:23] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> wo sab bhadak gye[m
+[16:36:25] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> wohhhhhhhh[m
+[16:36:28] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> awesome[m
+[16:36:29] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> andar ane lag gyr[m
+[16:36:34] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> DUDE VO ISS WORLD MAI AA GYE[m
+[16:36:37] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> xD[m
+[16:36:39] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> Ya[m
+[16:36:41] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> haan[m
+[16:36:53] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> ek aa gya tha jab maine banya[m
+[16:37:02] [Server thread/INFO]: supes issued server command: /tp supes autismatic
+[16:37:02] [Server thread/INFO]: [supes: Teleported supes to autismatic]
+[16:37:16] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> im lagging a bit idk why XD[m
+[16:37:32] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> random mine kar rha hai?[m
+[16:37:34] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> me tooo, a littul littul bit[m
+[16:37:36] [Server thread/WARN]: supes moved too quickly! -0.712089146698645,1.2491870787446828,-10.925417684156855
+[16:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[16:37:37] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> haan[m
+[16:37:56] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:37:56] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> ill go mine diamond[m
+[16:38:36] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:38:56] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 27 Entities![m
+[16:39:32] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[16:39:32] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[16:39:39] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> torches hai?[m
+[16:39:40] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> see my axe[m
+[16:39:49] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> wooo[m
+[16:39:58] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> kya enchant kiya?[m
+[16:40:01] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> how do i know the enchantment details[m
+[16:40:06] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> arey mai marr gya reee T_T[m
+[16:40:10] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> how to enchant?[m
+[16:40:26] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> wait come here[m
+[16:40:34] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> praf[m
+[16:40:40] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> where?[m
+[16:40:47] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> tp[m
+[16:40:51] [Server thread/INFO]: autismatic issued server command: /tp Prafulla supes
+[16:40:51] [Server thread/INFO]: [autismatic: Teleported Prafulla to supes]
+[16:40:51] [Server thread/WARN]: Prafulla moved too quickly! -1.1223790461456247,17.00133597911215,13.977324648985132
+[16:41:06] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[16:41:06] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[16:41:41] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> wait ill get an iron pickaxe to enchant[m
+[16:41:43] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> table me enchant karne ke liye u need lapis[m
+[16:41:53] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> that i have[m
+[16:42:04] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> nd to get the best enchant u need to be lvl 30[m
+[16:42:08] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> T_T[m
+[16:42:17] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> im level 8 again now T_T_T_T_T_T_T_T[m
+[16:42:21] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> xD[m
+[16:42:24] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> ek baar enchant kiya tera 3-4 lvls kam hota hai[m
+[16:42:24] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i level 1[m
+[16:42:32] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> lol im 38 still[m
+[16:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
+[16:42:43] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> well then mine stuff[m
+[16:42:53] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> jidhar se xp milta hai[m
+[16:43:05] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> for example quartz[m
+[16:43:11] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> nether me jake[m
+[16:43:12] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> lapiz hai?[m
+[16:43:14] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> prafulla toh iron golem ko bhi maarne lag gya tha[m
+[16:43:15] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> haan[m
+[16:43:17] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> take[m
+[16:43:22] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> abhi mat kar[m
+[16:43:27] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ok[m
+[16:43:31] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> bekar milega[m
+[16:43:33] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> andar daala[m
+[16:43:35] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> accha[m
+[16:43:50] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> sab disabled hai[m
+[16:43:53] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> lapis hai na aut[m
+[16:44:02] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> mujhe de[m
+[16:44:06] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i have 5 lapiz[m
+[16:44:15] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> supes merko karke denaaaaaaaaaaaaaa[m
+[16:44:21] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> kya[m
+[16:44:24] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> enchant[m
+[16:44:32] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> on what[m
+[16:44:46] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> are[m
+[16:44:55] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> unbreaking 1[m
+[16:45:13] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> jo tujhe last column me ayega woh leneka[m
+[16:45:24] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> 3 columns atae hai right[m
+[16:45:29] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> haan[m
+[16:45:30] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> last wala leneka[m
+[16:45:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:45:40] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> it has 5 levels[m
+[16:45:41] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> last wala was after level 30[m
+[16:45:51] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> haan jo level 30 ke baad milta hai[m
+[16:46:00] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> lapis de[m
+[16:46:01] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> hover over ur pickaxe[m
+[16:46:12] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> e dabake[m
+[16:46:18] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> shit sorry[m
+[16:46:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:46:24] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> LAPIS DE[m
+[16:46:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 10 Entities![m
+[16:46:42] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> wait i ll make u one[m
+[16:46:51] [Server thread/INFO]: Prafulla issued server command: /tp supes Prafulla
+[16:46:51] [Server thread/INFO]: [Prafulla: Teleported supes to Prafulla]
+[16:46:53] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> halp[m
+[16:46:54] [Server thread/INFO]: Prafulla was shot by ?????????  
+[16:46:59] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> nais[m
+[16:47:04] [Server thread/INFO]: Prafulla issued server command: /tp Prafulla supes
+[16:47:04] [Server thread/INFO]: [Prafulla: Teleported Prafulla to supes ||||||||||]
+[16:47:07] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> you in nether XD[m
+[16:47:19] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> no[m
+[16:47:32] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> toh kaise mara[m
+[16:47:41] [Server thread/WARN]: autismatic moved too quickly! 10.589648912067332,-2.233632006042477,0.8301185803723001
+[16:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[16:48:12] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> dont go alone u will die[m
+[16:48:18] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> yes[m
+[16:49:01] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> ritesh tp maar[m
+[16:49:04] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[16:49:04] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[16:49:11] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> got redstone[m
+[16:49:20] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> are[m
+[16:49:41] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> waise mine karte rhega nhi milegalol[m
+[16:49:45] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> lava[m
+[16:49:56] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> torch de[m
+[16:49:57] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i think[m
+[16:50:00] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> there are diamonds nearby[m
+[16:50:56] [Server thread/INFO]: supes issued server command: /tp supes -1141 63 979
+[16:50:56] [Server thread/INFO]: [supes: Teleported supes to -1140.5, 63.0, 979.5]
+[16:51:03] [Server thread/INFO]: supes issued server command: /tp Prafulla supes
+[16:51:03] [Server thread/INFO]: [supes: Teleported Prafulla to supes]
+[16:51:13] [Server thread/INFO]: supes issued server command: /tp autismatic supes
+[16:51:13] [Server thread/INFO]: [supes: Teleported autismatic to supes]
+[16:51:13] [Server thread/WARN]: autismatic moved too quickly! 44.37660625657895,47.46415937495544,-38.48393599511098
+[16:51:22] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> follow me[m
+[16:51:27] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> diamond kidr hai kaise malum padta hai[m
+[16:51:35] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> its generally near lava[m
+[16:51:39] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> okay[m
+[16:51:41] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> as long as ive played[m
+[16:51:46] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ive always found it nearby lava[m
+[16:51:58] [Server thread/INFO]: autismatic issued server command: /tp supes Prafulla
+[16:51:58] [Server thread/INFO]: [autismatic: Teleported supes to Prafulla]
+[16:52:05] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> wait[m
+[16:52:08] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> kya bulaya?[m
+[16:52:11] [Server thread/INFO]: autismatic issued server command: /tp supes Prafulla
+[16:52:11] [Server thread/INFO]: [autismatic: Teleported supes to Prafulla]
+[16:52:20] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> pika?[m
+[16:52:24] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> haan[m
+[16:52:36] [Server thread/INFO]: autismatic issued server command: /tp supes Prafulla
+[16:52:36] [Server thread/INFO]: [autismatic: Teleported supes to Prafulla]
+[16:52:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
+[16:52:51] [Server thread/INFO]: autismatic issued server command: /tp supes Prafulla
+[16:52:51] [Server thread/INFO]: [autismatic: Teleported supes to Prafulla]
+[16:53:20] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> ????[m
+[16:53:20] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> whta[m
+[16:53:24] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[16:53:25] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> bolegaaaaa[m
+[16:53:35] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> here[m
+[16:53:39] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> dont tp me[m
+[16:53:52] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> enchant karke lata hun[m
+[16:53:55] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> rukh[m
+[16:54:04] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[16:54:21] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i feel idhar nearby diamonds hai[m
+[16:54:24] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 3 Entities![m
+[16:54:52] [Server thread/INFO]: supes issued server command: /tp supes autismatic
+[16:54:52] [Server thread/INFO]: [supes: Teleported supes to autismatic]
+[16:55:13] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> fuck almost fell in[m
+[16:55:17] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> wahi na gandu[m
+[16:55:33] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> ritesh take this[m
+[16:55:51] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> wohoooo[m
+[16:56:00] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> fortune 2 mtlb??[m
+[16:56:03] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> it has fortunee 2 nd efficiency 4[m
+[16:56:05] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> jo mine kiya uska double na[m
+[16:56:08] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> and effi 4?[m
+[16:56:29] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> it means sometimes tujhe 1 ke jagah pe 2 diamonds milenge[m
+[16:56:42] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> nd u can mine a lot faster[m
+[16:56:51] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> i seeeeeeeeee[m
+[16:56:53] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> thaaanks[m
+[16:56:55] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> thats what efficieny 4 is[m
+[16:57:24] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> now mine that coal[m
+[16:57:33] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> idhar[m
+[16:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[16:58:01] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> u will get more quantity[m
+[16:58:06] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> woaahhh[m
+[16:58:14] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> baad mai waps de prafulla XD[m
+[16:58:24] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> LOL[m
+[16:58:26] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> mine for now[m
+[16:58:31] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> when u mine stuff like from what u get xp[m
+[16:58:32] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> im bad at safekeeping[m
+[16:58:40] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> okay XD[m
+[16:58:50] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> thats what fortune is[m
+[16:59:08] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> ek aur hai kya[m
+[16:59:14] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i found gold[m
+[16:59:14] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> diamond pick[m
+[16:59:17] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> nah[m
+[16:59:22] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> oh nice[m
+[16:59:24] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> haan mere paas extra hai[m
+[17:00:05] [Server thread/INFO]: supes issued server command: /tp supes -1141 63 979
+[17:00:05] [Server thread/INFO]: [supes: Teleported supes to -1140.5, 63.0, 979.5]
+[17:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
+[17:00:14] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[17:00:14] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[17:00:30] [Server thread/INFO]: autismatic issued server command: /tp autismatic Prafulla
+[17:00:30] [Server thread/INFO]: [autismatic: Teleported autismatic to Prafulla]
+[17:00:39] [Server thread/INFO]: supes issued server command: /tp supes Prafulla
+[17:00:39] [Server thread/INFO]: [supes: Teleported supes to Prafulla]
+[17:00:46] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> here praf[m
+[17:00:56] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> thanks :D[m
+[17:00:58] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> use that[m
+[17:01:09] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> dont lose it xd[m
+[17:01:09] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[17:01:16] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i cant use that to mine cobble na[m
+[17:01:29] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> yeah u can[m
+[17:01:31] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ive hit the bed rock[m
+[17:01:41] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> it has unbreaking 3[m
+[17:01:49] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[17:01:55] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> woah means no life?[m
+[17:01:57] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> so bohot time lagega tuthne[m
+[17:02:09] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 15 Entities![m
+[17:02:14] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> no it will break at some point[m
+[17:02:23] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> unless we get mending[m
+[17:02:43] [Server thread/INFO]: supes issued server command: /tp supes -1141 63 979
+[17:02:43] [Server thread/INFO]: [supes: Teleported supes to -1140.5, 63.0, 979.5]
+[17:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3857ms or 77 ticks behind
+[17:02:55] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> guys[m
+[17:02:56] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> found it[m
+[17:02:58] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> tp to me[m
+[17:03:03] [Server thread/INFO]: autismatic issued server command: /tp autismatic Prafulla
+[17:03:03] [Server thread/INFO]: [autismatic: Teleported autismatic to Prafulla]
+[17:03:30] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> i feel there are more here[m
+[17:03:41] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> what[m
+[17:03:45] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> dmnd[m
+[17:03:47] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> mroe good stuff[m
+[17:04:07] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> supes tp me to home[m
+[17:04:12] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ill keep diamond and come back[m
+[17:04:24] [Server thread/INFO]: supes issued server command: /tp supes Prafulla
+[17:04:24] [Server thread/INFO]: [supes: Teleported supes to Prafulla]
+[17:04:33] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> tp me to home[m
+[17:04:39] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> thats bedrockkkkkkkkkkkkk[m
+[17:04:43] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> yup[m
+[17:05:06] [Server thread/INFO]: supes issued server command: /tp supes -1141 63 979
+[17:05:06] [Server thread/INFO]: [supes: Teleported supes to -1140.5, 63.0, 979.5]
+[17:05:13] [Server thread/INFO]: supes issued server command: /tp Prafulla supes
+[17:05:13] [Server thread/INFO]: [supes: Teleported Prafulla to supes]
+[17:05:59] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> ive kept 46 iron ores on furnace[m
+[17:06:41] [Server thread/INFO]: Prafulla issued server command: /tp supes
+[17:06:41] [Server thread/INFO]: [Prafulla: Teleported Prafulla to supes]
+[17:06:41] [Server thread/WARN]: Prafulla moved too quickly! 21.46612007271756,-6.765159417470969,32.83219768016454
+[17:06:58] [Netty Server IO #4/INFO]: [[0;37;1mworld[0;37;1m]<Prafulla> where is this?[m
+[17:07:15] [Netty Server IO #6/INFO]: [[0;37;1mworld[0;37;1m]<supes> just keep digging straight[m
+[17:07:16] [Server thread/INFO]: autismatic issued server command: /tp autismatic supes
+[17:07:16] [Server thread/INFO]: [autismatic: Teleported autismatic to supes]
+[17:07:48] [Netty Server IO #3/INFO]: [[0;37;1mworld[0;37;1m]<autismatic> supes[m
