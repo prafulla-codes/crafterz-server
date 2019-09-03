@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "f415610d-8e71-37a3-ae9c-ec52d86b3d5d",
+    "name": "autismatic",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "55de43bd-d8c0-361d-a277-bbd5040c95c3",
+    "name": "Prafulla",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8dc7d930-30e4-3daa-b7e2-a3c4c2567b4a",
+    "name": "supes",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
